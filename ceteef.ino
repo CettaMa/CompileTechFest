@@ -12,7 +12,7 @@ const int buzzerPin = 10;     // Pin untuk buzzer
 const int ledRed = 12;        // Pin untuk LED merah
 const int ledGreen = 11;      // Pin untuk LED hijau
 const int soilSensorPin = A0; // Pin analog untuk sensor kelembapan tanah
-const int servoPin = 9;       // Pin untuk motor servo
+const int servoPin = 13;       // Pin untuk motor servo
 
 // Membuat objek servo untuk mengontrol motor servo
 Servo moistureServo;
